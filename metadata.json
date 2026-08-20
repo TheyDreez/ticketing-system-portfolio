@@ -1,0 +1,6 @@
+{
+  "name": "CBI Operations Center",
+  "description": "A highly polished IT operations center and ticket management dashboard with live system monitoring and ticket status analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
